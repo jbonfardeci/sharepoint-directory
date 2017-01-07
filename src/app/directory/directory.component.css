@@ -1,0 +1,33 @@
+
+.panel{
+    margin: 20px;
+}
+
+td .glyphicon-eye-open {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.alpha-index{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.alpha-index > .btn {
+    display: inline-block;
+    margin:2px;
+}
+
+.person {
+    border: 1px solid #ededed;
+    max-width: 300px;
+    margin: auto;
+    box-shadow: rgba(0,0,0,0.3) 0 0 20px;
+    padding: 20px;
+}
+
+.people-search-container {
+    margin: auto;
+    text-align: center;
+    max-width: 400px;
+}
